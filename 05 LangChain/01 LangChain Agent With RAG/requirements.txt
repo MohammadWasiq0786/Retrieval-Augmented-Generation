@@ -1,0 +1,7 @@
+langchain
+faiss-cpu
+tiktoken
+requests
+numpy
+wikipedia
+langchain_community

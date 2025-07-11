@@ -1,0 +1,14 @@
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-core==0.1.10
+langchain-openai==0.0.5
+faiss-cpu==1.7.4
+numpy==1.24.3
+requests==2.31.0
+wikipedia==1.4.0
+python-dotenv==1.0.0
+asyncio-mqtt==0.16.1
+websockets==12.0
+aiohttp==3.9.1
+pydantic==2.5.2
+typing-extensions==4.8.0 
