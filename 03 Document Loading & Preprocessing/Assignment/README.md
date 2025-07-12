@@ -33,5 +33,12 @@ Assignment/
 ```bash
 python main.py
 ```
+---
+
+### Chunk Size Comparison
+
+![chunkSize](./test_data/chunk_size_comparison.png)
+
+![embedding](./test_data/embedding_similarity_comparison.png)
 
 ---
