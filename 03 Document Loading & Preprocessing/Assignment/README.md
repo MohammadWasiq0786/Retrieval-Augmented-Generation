@@ -13,7 +13,7 @@
 ## 📁 Project Structure
 
 ```bash
-langchain_assignment/
+Assignment/
 ├── generate_test_data.py      # Generate long, realistic test data
 ├── loaders.py                 # Load various document types
 ├── chunking.py                # Recursive, token-based, sentence chunking
