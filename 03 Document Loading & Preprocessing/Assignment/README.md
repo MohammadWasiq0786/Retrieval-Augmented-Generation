@@ -39,6 +39,8 @@ python main.py
 
 ![chunkSize](./test_data/chunk_size_comparison.png)
 
+### Embedding Similarity Comparison
+
 ![embedding](./test_data/embedding_similarity_comparison.png)
 
 ---
