@@ -1,0 +1,15 @@
+python-docx
+langchain-community
+tiktoken 
+nltk 
+openai 
+sentence-transformers 
+faiss-cpu 
+unstructured 
+fpdf
+request
+
+
+# !pip install -q python-docx
+# !pip install -U langchain-community
+# !pip install tiktoken nltk openai sentence-transformers faiss-cpu unstructured fpdf
