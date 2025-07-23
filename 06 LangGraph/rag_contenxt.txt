@@ -1,0 +1,3 @@
+LangGraph is an open-source Python framework for building stateful, composable, and observable LLM workflows. It provides primitives for defining nodes, memory, edges, and agents. LangGraph supports integration with LangChain, LlamaIndex, and various vector stores and retrievers.
+
+You can build multi-agent pipelines with memory, retrievers, tools, and streaming outputs. EURI AI integrates by powering each node with real-time inference using models like gpt-4.1-nano.
